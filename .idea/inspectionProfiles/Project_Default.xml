@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="object._gerar_valor" />
+          <option value="object._gerar_resultado" />
+          <option value="object.__dificuldade" />
+          <option value="object.__valor1" />
+          <option value="object.__valor2" />
+          <option value="object.__operacao" />
+          <option value="object.__resultado" />
+          <option value="object.operacao" />
+          <option value="object.valor1" />
+          <option value="object.valor2" />
+          <option value="object.dificuldade" />
+          <option value="object._op_simbolo" />
+          <option value="object.resultado" />
+          <option value="object.codigo" />
+          <option value="object.nome" />
+          <option value="object.preco" />
+          <option value="object.__preco" />
+          <option value="object.__nome" />
+          <option value="object.__codigo" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
